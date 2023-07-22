@@ -1,4 +1,4 @@
-# Exercite sua Lógica com Desafios de Código em Python (5 atividades) <img align="center" alt="emerson-fabianovieira-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="emerson-fabianovieira-dio" src="https://user-images.githubusercontent.com/93287829/160112930-5930daf6-f0bd-4f32-bc79-e4cb9650b34a.png" width="100px">
+# Exercite sua Lógica com Desafios de Código em Python <img align="center" alt="emerson-fabianovieira-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="emerson-fabianovieira-dio" src="https://user-images.githubusercontent.com/93287829/160112930-5930daf6-f0bd-4f32-bc79-e4cb9650b34a.png" width="100px">
 
 ### Exercite sua Lógica com Desafios de Código em Python (5 atividades)
 #####   - Desafio de código - Tempo Estimado de Entrega
